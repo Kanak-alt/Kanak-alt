@@ -1,6 +1,7 @@
 ## Hi, I'm Kanak
 
  🎓 BTech IT Student
+ 
  🧠 Focused on Data Structures & Algorithms  
  🤖 Building projects in Machine Learning & Generative AI  
  🔬 Working on research-oriented and innovation-driven solutions  
